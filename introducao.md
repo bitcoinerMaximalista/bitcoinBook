@@ -7,4 +7,4 @@ este livro é composto de três seções:
    
 5. **peculiaridades geográficas da Bitcoin**: a última seção do livro tem o objetivo de prover a todos os adeptos do Bitcoin, especialmente aqueles provenientes do hemisfério norte global, uma visão das diferentes realidades e economias ao redor do mundo que influenciam a adoção global da Bitcoin.
 
-**[sumário](https://mszanon.github.io/bitcoinBook/summary)** constantemente atualizado.
+**[sumário](https://bitcoinerMaximalista.github.io/bitcoinBook/sumario)** constantemente atualizado.
