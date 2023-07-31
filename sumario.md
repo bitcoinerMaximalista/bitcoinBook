@@ -1,44 +1,54 @@
-# summary 
+# sumário 
 
-## what is bitcoin
+## o que é Bitcoin?
 
-### bitcoin is money
-### bitcoin is technology
-### bitcoin is freedom
-### bitcoin is time
-### bitcoin is energy
-### is bitcoin a speculative asset?
-### bitcoin is NOT fair
-### is bitcoin just a thing?
-### bitcoin is an app in your phone
-### bitcoin is a tool
-### bitcoin is a movement (in a community)
-### is bitcoin neutral (wbd 638)?
-### is bitcoin apolitical (jyn urso)
+### dinheiro
+### tecnologia
+### liberdade
+### tempo
+### energia
+### ativo especulativo
+### equidade
+### simplesmente uma coisa
+### um aplicativo no telefone
+### uma ferramenta
+### um movimento numa comunidade
+### neutro (wbd 638)
+### apolítico (jyn urso)
 
-## how btc works
+## Lightning Netword e outros L2
 
-### Buying Bitcoin with KYC
-### Buying Bitcoin with No-KYC
-### Self-Custody your Bitcoin
-### Software Wallets
-### Hardware Wallets
-### Full Nodes
-### Transaction Fees
-### UTXO Management
-### CoinJoins
-### Lightning Network Wallets
+## como o Bitcoin funciona? <!-- Este conteúdo vai ser mais completo online, onde será atualziado constantemente -->
+
+### Comprando BTC com KYC
+### Comprando Bitcoin sem KYC
+### Custodiando Bitcoin
+### Carteiras
+
+#### Papel
+#### Software
+#### Hardware
+
+### __nodes_ completos
+### taxas de transação
+### gestão de UTXO
+### _CoinJoins_
+### Carteiras LN
 ### Multisig
-### Common Mistakes
-### Common Questions
+### Erros comuns
+### Perguntas frequentes
 
-## geographies of btc
+## Geopilítica do Bitcoin
 
-### the global south
+### O sul global
 
-#### argentina
-#### venezuela
+#### Brasil
+#### Argentina
+#### Venezuela
+#### Continente Africano
 
-### china
+### China
 
-### Russia
+### Rússia
+
+### Sudeste Asiático
