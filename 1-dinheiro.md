@@ -1,4 +1,5 @@
-# O que é Dinheiro?
+# Dinheiro
+## O que é Dinheiro?
 
 O Bitcoin pode ser entendido a partir das três funções essenciais do dinheiro: meio de troca, unidade de valor e reserva de valor.
 
@@ -19,7 +20,7 @@ Ao visualizarmos o dinheiro como uma reserva de tempo e energia, podemos entende
 
 O dinheiro pode também ser definido por um conjunto de características essenciais que o tornam um meio de troca eficiente, uma reserva de valor confiável e uma unidade de medida padrão para avaliar o valor. Essas propriedades são cruciais para que o dinheiro funcione de maneira eficaz em uma sociedade. Vamos mergulhar nas três principais concepções que definem o que é dinheiro "de verdade", ou _hard money_.
 
-## Reserva de valor
+### Reserva de valor
 
 Uma função vital do dinheiro é servir como uma reserva de valor, permitindo que as pessoas armazenem o produto de seu trabalho, isto é, de seu tempo e esforço, ao longo do tempo. Uma reserva de valor deve possuir as seguintes características:
 
@@ -27,7 +28,7 @@ Uma função vital do dinheiro é servir como uma reserva de valor, permitindo q
 * Durabilidade: significa que o dinheiro é fácil de guardar ao longo do tempo; não apodrece, enferruja ou quebra facilmente.
 * Imutabilidade: As transações realizadas com dinheiro devem ser irreversíveis e confiáveis, minimizando a necessidade de intermediários de confiança.
 
-## Meio de troca
+### Meio de troca
 
 Talvez a função mais imediata do dinheiro, que primeiro vem à mente das pessoas, seja como ele atua como um intermediário nas transações econômicas, permitindo que bens e serviços sejam trocados de maneira eficiente. Um meio de troca deve possuir as seguintes características:
 
@@ -35,7 +36,7 @@ Talvez a função mais imediata do dinheiro, que primeiro vem à mente das pesso
 * Aceitabilidade: O dinheiro deve ser amplamente aceito como forma de pagamento, criando uma rede de confiança entre os participantes econômicos.
 * Verificabilidade: significa que ambas as partes, vendedor e comprador do bem ou serviço pode verificar sem muita complicação se o dinheiro é realmente o que parece.
 
-## Unidade de valor
+### Unidade de valor
 <!-- Não consegui, até hoje, fazer uma boa tradução para "unit of account"; aceito sugestões -->
 
 Uma unidade de valor é uma medida padrão que avalia o valor de diferentes bens e serviços, permitindo comparações diretas. Uma unidade de valor deve possuir as seguintes características:
@@ -47,11 +48,11 @@ Essas características do dinheiro formam a base que sustenta o funcionamento da
 
 No próximo capítulo, exploraremos algumas etapas-chave na evolução do dinheiro e na transferência de valor.
 
-# Evolução Histórica do Dinheiro
+## Evolução Histórica do Dinheiro
 
 Nesta seção, exploraremos a evolução das formas de dinheiro ao longo da história, culminando na introdução do Bitcoin.
 
-## Escambo
+### Escambo
 
 O escambo, também conhecido como troca direta, consiste na troca de bens e serviços por outros bens e serviços diretamente entre as partes interessadas. Ele presupõe que, pelo menos naquela ocasião, os itens trocados têm igual valor.
 
@@ -63,7 +64,7 @@ No entanto, o ponto fraco do escambo residia na ausência de um meio de troca pr
 
 Devido às ineficiências do escambo, as comunidades tendiam a adotar uma mercadoria comummente aceita como intermediária nas trocas, algo onde pudéssemos "estacionar" nosso valor para um momento futuro. Com isso, surgiu o uso de commodities como um meio de troca.
 
-## Dinheiro-commodity
+### Dinheiro-commodity
 
 Ao explorarmos o conceito de troca e suas limitações, ficou evidente que era necessário um meio de comércio mais eficiente. Os desafios inerentes à troca, como a necessidade de um "match perfeito" entre as partes envolvidas, levaram ao surgimento de uma solução intermediária: o dinheiro-commodity. Essa inovação revolucionou o comércio ao introduzir um meio de troca pré-definido, lançando as bases para a transição da simples troca para um sistema econômico mais sofisticado.
 
@@ -83,7 +84,7 @@ A evolução da troca para o dinheiro-commodity representou uma mudança fundame
 
 Claro, aqui está o primeiro texto, editado e aprimorado com informações relevantes do segundo texto e com sua coesão e coerência mantidos:
 
-## Metais Monetários
+### Metais Monetários
 
 Com a ascensão dos metais monetários, as propriedades-chave do dinheiro "de verdade" começaram a ser satisfeitas pela primeira vez na história, especialmente quando começamos a usar cunhagem.
 
