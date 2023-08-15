@@ -125,14 +125,19 @@ A moeda fiduciária e a dívida soberana (isto é, governamental) formam a base 
 
 [^1]: Bancos centrais ao redor do mundo ainda mantêm ouro em seus cofres e muitos deles ainda compram mais ouro a cada ano como parte de suas reservas cambiais. Como o ouro é ainda hoje classificado como um ativo de primeira categoria no sistema bancário global, embora as moedas emitidas pelos governos não sejam mais lastreadas no ouro (a Suiça foi o último país a abandonar o lastreamento de sua moeda no ouro em 1999), ele continua sendo uma peça importante do sistema monetário global como um ativo de reserva.
 
-
 Mas moedas fiduciárias tem em sua estratégia uma característica muito relevante: elas são inflacionárias por definição e portanto incapazes de armazenar valor ao longo do tempo, já que podem ser impressas por decreto e não com base na criação de valor.
 
-Vejamos, por exemplo, duas informações sobre o dólar, considerada, por razões que não discutiremos aqui, a moeda mais segura do mundo. Podemos ver no gráfico abaixo como o dólar perdeu seu valor de compra ao longo do tempo:
+Vejamos, por exemplo, duas informações sobre o dólar, considerada pelo mercaod financeiro, por razões que não discutiremos aqui, a moeda mais segura do mundo. Primeiro, vejamos, no gráfico abaixo, como o dólar perdeu seu valor de compra ao longo do tempo:
 
-![Poder de compra do Dólar ao londo do século 20.]()
+![Poder de compra do Dólar ao londo do século 20.](dolar-sec-20.jpg)
 
- o caso do dólar durante a pandemia de Covid 19.
+Fonte: [Seeking Alpha](https://seekingalpha.com/article/137051-the-dollars-20th-century-decline).
+
+Mais recentemente, durante a pandemia de Covid 19, o Federal Reserve, o Banco Central dos Estados Unidos, imprimiu mais dólares do que anteriormente em toda a sua história:
+
+![Livro Caixa do Banco Central estadunidense, mostranto a velocidade acelerada na impressão de papel moeda]()
+
+
 
 ### Mas e o Bitcoin, hein?
 
