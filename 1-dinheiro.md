@@ -141,7 +141,7 @@ Fonte: [Virtuse](https://www.virtuse.com/whats-the-end-game-of-all-this-money-pr
 
 Como conequência, a inflação nos EUA subiu de quase zero em 2020 para 9,1% em junho de 2022, "forçando" o FED a arrochar a economia aumentando a taxa de juros, método bastante conhecido de nós brasileiros.
 
-
+![Inflação nos EUA pós impressão de dinheiro durante a pandemia de Covid 19](infacao-us.jpg.webp).
 
 ### Mas e o Bitcoin, hein?
 
