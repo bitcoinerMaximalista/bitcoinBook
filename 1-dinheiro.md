@@ -120,6 +120,43 @@ O fim da moeda em papel lastreada em metal começou no final da Segunda Guerra M
 
 Avançando para o final dos anos 60 e início dos anos 70, os Estados Unidos, sentindo-se restritos com o lastro de ouro, começaram a expandir sua oferta monetária para financiar a guerra no Vietnã. A França não ficou satisfeita com isso e exigiu seu ouro de volta. Isso causou uma corrida pelo ouro e, como os Estados Unidos haviam impresso significativamente mais dólares do que o ouro disponível, eles abandonaram rapidamente essa ligação por completo. Os Estados Unidos não cumpriram sua obrigação de permitir que indivíduos e países trocassem seus dólares por ouro. Esse evento é conhecido como o Choque de Nixon e é um dos eventos-chave em nossa história monetária e a partir desse dia vimos a proliferação de moedas fiduciárias - uma moeda respaldada apenas por dívida e pela fé da sociedade no governo.
 
-A moeda fiduciária e a dívida soberana (isto é, governamental) formam a base do sistema monetário atual e dá aos governos e bancos um controle imenso, pois eles têm a capacidade de expandir e contrair livremente a oferta monetária conforme desejarem.
+A moeda fiduciária e a dívida soberana (isto é, governamental) formam a base do sistema monetário atual e dá aos governos e bancos um controle imenso, pois eles têm a capacidade de expandir e contrair livremente a oferta monetária conforme desejarem[^1].
 
-Bancos centrais ao redor do mundo ainda mantêm ouro em seus cofres e muitos deles ainda compram mais ouro a cada ano como parte de suas reservas cambiais. Como o ouro é ainda hoje classificado como um ativo de primeira categoria no sistema bancário global, embora as moedas emitidas pelos governos não sejam mais lastreadas no ouro (a Suiça foi o último país a abandonar o lastreamento de sua moeda no ouro em 1999), ele continua sendo uma peça importante do sistema monetário global como um ativo de reserva. 
+
+[^1]: Bancos centrais ao redor do mundo ainda mantêm ouro em seus cofres e muitos deles ainda compram mais ouro a cada ano como parte de suas reservas cambiais. Como o ouro é ainda hoje classificado como um ativo de primeira categoria no sistema bancário global, embora as moedas emitidas pelos governos não sejam mais lastreadas no ouro (a Suiça foi o último país a abandonar o lastreamento de sua moeda no ouro em 1999), ele continua sendo uma peça importante do sistema monetário global como um ativo de reserva.
+
+
+Mas moedas fiduciárias tem em sua estratégia uma característica muito relevante: elas são inflacionárias por definição e portanto incapazes de armazenar valor ao longo do tempo, já que podem ser impressas por decreto e não com base na criação de valor.
+
+Vejamos, por exemplo, duas informações sobre o dólar, considerada, por razões que não discutiremos aqui, a moeda mais segura do mundo. Podemos ver no gráfico abaixo como o dólar perdeu seu valor de compra ao longo do tempo:
+
+![Poder de compra do Dólar ao londo do século 20.]()
+
+ o caso do dólar durante a pandemia de Covid 19.
+
+### Mas e o Bitcoin, hein?
+
+
+
+ Criptógrafos, um grupo de indivíduos focados na privacidade por meio da tecnologia, em busca de escassez digital, não subservientes a nenhuma entidade central, embarcaram em uma missão para descobrir uma nova e melhor versão digital de nossos amados metais monetários. Eles estavam procurando por ouro digital. Algo que pudesse armazenar valor, oferecer durabilidade e ser usado para transações digitais. Dessa busca, o Bitcoin emergiu como o primeiro ativo monetário digital nativo e escasso bem-sucedido.
+
+Em 2009, Satoshi Nakamoto (o pseudônimo do criador do Bitcoin) criou o Bitcoin. Embora o Bitcoin não tenha sido a primeira moeda digital, foi a primeira criptomoeda que poderia satisfazer a maioria das propriedades que compõem o dinheiro de qualidade. Isso foi possível porque era digitalmente programável e operava por consenso de grupo - ele poderia ser programado de uma forma que superasse os fracassos de seus predecessores e devolvesse o poder à comunidade. O Bitcoin seria um ativo verdadeiramente escasso, à prova de adulteração, com um suprimento publicamente visível que ninguém poderia alterar. Portanto, é impossível diluir ou adulterar da mesma forma que era endêmico em formas anteriores de dinheiro.
+
+O Bitcoin é um instrumento de portador digital, o que significa que não há necessidade de partes confiáveis ​​ou intermediários. Os participantes na rede impõem as regras por consenso - a política monetária é controlada por aqueles que participam do ecossistema. Isso significa não depender de armazéns de ouro ou governos.
+
+Como o Bitcoin existe fora do controle de governos e bancos centrais, ele está sendo amplamente adotado como um sistema monetário alternativo pelo simples fato de não ser passível de manipulação. Pela primeira vez desde que abandonamos os metais monetários, temos uma forma de dinheiro soberana que devolve o controle ao indivíduo.
+
+Desde 2009, sem grandes falhas técnicas, hacks ou problemas, o Bitcoin continua a crescer em sua aceitação, adoção e opcionalidade como um bem monetário. O Bitcoin está atualmente crescendo em adoção3 a 137%, em comparação com 76% para o crescimento da internet na mesma idade.
+
+É importante notar que, embora outras criptomoedas tenham sido introduzidas nos últimos anos, nenhuma delas desafia a posição do Bitcoin como um bem monetário superior. Os defensores do Bitcoin diriam que isso se deve ao seguinte:
+
+* Seu suprimento não pode ser diluído ou expandido - já que todos os usuários teriam que concordar em desvalorizar seu próprio dinheiro sem ganho.
+* Controlar a rede Bitcoin exigiria bilhões de dólares em equipamentos de processamento, segredo e milhões de usuários de bitcoin em todo o mundo.
+* Tem os maiores efeitos de rede e base de usuários.
+* Outras criptomoedas geralmente não têm um suprimento fixo ou são controladas por um pequeno grupo de usuários - que é a razão pela qual as formas de dinheiro anteriores falharam.
+* Conforme a rede cresce, junto com o conhecimento e a aceitação, sua proposta de valor e segurança continuarão a se fortalecer.
+* Além disso, a maioria das outras criptomoedas está tentando resolver outros problemas usando contratos inteligentes, tokens, modelos de governança, etc. Portanto, eles não são considerados bens monetários.
+
+Além disso, o Bitcoin é frequentemente criticado por ser lento e, às vezes, caro para transacionar em relação à moeda fiduciária. Comparado a sistemas de pagamento como o Visa, sim, o Bitcoin é extremamente lento. No entanto, o que não é mencionado com frequência é que, como o fiat, o Bitcoin está em constante evolução, assim como sua eficiência e custo para transacionar. Uma grande indústria de desenvolvedores de software está construindo sobre o Bitcoin para melhorar sua velocidade e segurança sem comprometer suas propriedades de dinheiro de qualidade. Eles criaram produtos que oferecem transações quase instantâneas a uma fração do custo dos cartões de crédito. Com isso em mente, quando comparamos o Bitcoin à eficiência dos cartões de crédito, estamos comparando maçãs com laranjas. Em vez disso, devemos comparar cartões de crédito à rede Lightning (um produto construído sobre o Bitcoin que permite transações quase instantâneas) e comparar o Bitcoin ao sistema bancário tradicional para uma comparação mais justa.
+
+Com tudo isso dito, o surgimento do dinheiro programável despertou o interesse de governos e bancos centrais em seus próprios sistemas de moeda fiduciária e, com isso, vimos o surgimento da moeda digital do banco central (CBDC
