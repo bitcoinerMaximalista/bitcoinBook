@@ -143,11 +143,19 @@ Como conequência, a inflação nos EUA subiu de quase zero em 2020 para 9,1% em
 
 ![Inflação nos EUA pós impressão de dinheiro durante a pandemia de Covid 19](infacao-us.jpg.webp).
 
+Minha itenção em utilizar a economia estadunidense como exemplo é pelo fato de, primeiro, ser a maior economia do mundo; e, além disso, de ser considerada a mais segura. E ainda assim, vemos que ela não resiste aos problemas inerente de uma economia fiduciária. Outro exemplo disso são as quebras de bancos, invariavelmente salvos pelos governos. Foi numa dessas ocosiões que uma pessoa ou grupo de pessoas que atende pelo pseudônimo de Satashi Nakamoto publicou o que talvez possa vir a ser o próximo passo na evolução histórica do dinheiro, o Bitcoin.
+
+Satoshi Nakamoto inseriu no Bloco Gênesis, isto é, no primeiro bloco da blockchain chamda por ele de Bitcoin[^2], a seguinte mensagem: "_The Times 03/Jan/2009 Chancellor on brink of second bailout for banks_."
+
+[^2]: Na próxima seção deste livro trataremos dos aspectos técnicos com mais detalhes e essa terminologia será melhor explicada.
+
+Embora Nakamoto nunca tenha comentado sobre o significado desse texto, a maioria acredita que ele sirva como uma declaração de missão para o próprio Bitcoin.
+
+O texto é um título de um artigo na edição de 3 de janeiro de 2009 do The \[London\] Times sobre a falha do governo britânico em estimular a economia após a crise financeira de 2007-2008 e a constante necessidade de governos precisarem evitar a falência de instituições financeiras "grandes demais para falir". A maioria dos bitcoiners (ou bitcoinheiros, num português mais corrente) acredita que a referência de Nakamoto ao artigo no código do Bloco Gênesis foi uma dica de como o Bitcoin é diferente dos grandes bancos de investimento que precisaram de resgates governamentais em 2008. Será?
+
 ### Mas e o Bitcoin, hein?
 
-
-
- Criptógrafos, um grupo de indivíduos focados na privacidade por meio da tecnologia, em busca de escassez digital, não subservientes a nenhuma entidade central, embarcaram em uma missão para descobrir uma nova e melhor versão digital de nossos amados metais monetários. Eles estavam procurando por ouro digital. Algo que pudesse armazenar valor, oferecer durabilidade e ser usado para transações digitais. Dessa busca, o Bitcoin emergiu como o primeiro ativo monetário digital nativo e escasso bem-sucedido.
+Criptógrafos, um grupo de indivíduos focados na privacidade por meio da tecnologia, em busca de escassez digital, não subservientes a nenhuma entidade central, embarcaram em uma missão para descobrir uma nova e melhor versão digital de nossos amados metais monetários. Eles estavam procurando por ouro digital. Algo que pudesse armazenar valor, oferecer durabilidade e ser usado para transações digitais. Dessa busca, o Bitcoin emergiu como o primeiro ativo monetário digital nativo e escasso bem-sucedido.
 
 Em 2009, Satoshi Nakamoto (o pseudônimo do criador do Bitcoin) criou o Bitcoin. Embora o Bitcoin não tenha sido a primeira moeda digital, foi a primeira criptomoeda que poderia satisfazer a maioria das propriedades que compõem o dinheiro de qualidade. Isso foi possível porque era digitalmente programável e operava por consenso de grupo - ele poderia ser programado de uma forma que superasse os fracassos de seus predecessores e devolvesse o poder à comunidade. O Bitcoin seria um ativo verdadeiramente escasso, à prova de adulteração, com um suprimento publicamente visível que ninguém poderia alterar. Portanto, é impossível diluir ou adulterar da mesma forma que era endêmico em formas anteriores de dinheiro.
 
