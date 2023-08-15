@@ -133,9 +133,13 @@ Vejamos, por exemplo, duas informações sobre o dólar, considerada pelo mercao
 
 Fonte: [Seeking Alpha](https://seekingalpha.com/article/137051-the-dollars-20th-century-decline).
 
-Mais recentemente, durante a pandemia de Covid 19, o Federal Reserve, o Banco Central dos Estados Unidos, imprimiu mais dólares do que anteriormente em toda a sua história:
+O que corroeu e continua corroendo o dólar e todas as outras moedas fiduciárias ao longo do tempo é sua inerente característica inflacionária. Vamos discutir melhor esse aspecto na terceira parte deste livro quando falarmos da geopolítica do Bitcoin. Por hora, apenas para exemplificar melhor o poder corrosivo da impressãos em lastro de moeda em papel, vejamos o que ocorreu durante a pandemia de Covid 19, quando o Federal Reserve (FED), o Banco Central dos Estados Unidos, imprimiu mais dólares do que anteriormente em toda a sua história:
 
 ![Livro Caixa do Banco Central estadunidense, mostranto a velocidade acelerada na impressão de papel moeda](dolar-printing.png)
+
+Fonte: [Virtuse](https://www.virtuse.com/whats-the-end-game-of-all-this-money-printing-2/).
+
+Como conequência, a inflação nos EUA subiu de quase zero em 2020 para 9,1% em junho de 2022, "forçando" o FED a arrochar a economia aumentando a taxa de juros, método bastante conhecido de nós brasileiros.
 
 
 
