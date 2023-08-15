@@ -135,7 +135,7 @@ Fonte: [Seeking Alpha](https://seekingalpha.com/article/137051-the-dollars-20th-
 
 Mais recentemente, durante a pandemia de Covid 19, o Federal Reserve, o Banco Central dos Estados Unidos, imprimiu mais dólares do que anteriormente em toda a sua história:
 
-![Livro Caixa do Banco Central estadunidense, mostranto a velocidade acelerada na impressão de papel moeda]()
+![Livro Caixa do Banco Central estadunidense, mostranto a velocidade acelerada na impressão de papel moeda](dolar-printing.png)
 
 
 
