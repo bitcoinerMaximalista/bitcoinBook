@@ -163,6 +163,18 @@ Mas foi em 2009 que Satoshi Nakamoto divulgou a primeira moeda digital que poder
 
 O Bitcoin é um instrumento de custódia individual e digital, o que significa que não há necessidade de terceiros ​​para guardar o seu dinheiro ou de intermediários para transacioná-lo. Os participantes na rede impõem as regras por consenso - a política monetária é controlada por aqueles que participam do ecossistema, isto é, ele não depende de cofres de bancos comerciais ou de bancos centrais. Fora do controle de governos e bancos centrais, o Bitcoin formou um sistema monetário alternativo e manipulável. Desde 2009, o Bitcoin não enfrentou grandes falhas técnicas, hacks ou problemas, e sua aceitação como um bem monetário continua crescendo.
 
-Portanto, aparentemente o Bitcoin tem a maioria das característica que podem fazer dele um dinheiro de qualidade, possívelmente o melhor dinheiro que já existiu, quando comparamos as características que as sociedades ao longo da história valorizaram para transformar algo em dinheiro, como podemos verificar na tablea abaixo.
+Portanto, aparentemente o Bitcoin tem a maioria das característica que podem fazer dele um dinheiro de qualidade, possívelmente o melhor dinheiro que já existiu, quando comparamos as características que as sociedades ao longo da história valorizaram para transformar algo em dinheiro, como podemos verificar na tabela abaixo.
 
-<!-- entra tabela com propriedades do dinheiro>
+Property	Barter	Commodities	Monetary Metals	Metal-Backed Paper	Fiat Currency	Bitcoin	CBDCs
+Store of Value							
+Scarcity	Poor	Good	Excellent	Great	Poor	Excellent	Poor
+Durability	Poor	Good	Excellent	Good	Good	Excellent	Average
+Immutability	Great	Great	Great	Average	Average	Excellent	Poor
+Medium of Exchange							
+Portability	Poor	Average	Good	Great	Great	Excellent	Great
+Acceptability	Poor	Great	Great	Great	Excellent	Average	Average
+Unit of Account							
+Divisibility	Poor	Good	Good	Great	Great	Excellent	Excellent
+Fungibility	Poor	Good	Good	Great	Great	Excellent	Average
+Overall Rating	Poor	Good	Great	Great	Good	Excellent	Average
+
