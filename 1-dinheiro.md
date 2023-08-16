@@ -157,7 +157,7 @@ O texto é um título de um artigo na edição de 3 de janeiro de 2009 do The \[
 
 A ideia de se lançar uma "moeda digital" não nasceu com o Bitcoin, antes do lançamento do bitcoin, existiram várias tentativas de criar dinheiro digital[^3], ele foi "apenas" o único bem-sucedido. A tecnologia disponível no século 20 fez com que Cypherpunks, um grupo de indivíduos focados na privacidade por meio da tecnologia, em busca de escassez digital, não subservientes a nenhuma entidade central, embarcaram em uma missão para descobrir uma versão digital melhorada dos metais monetários. Eles estavam procurando por **ouro digital**. Algo que pudesse armazenar valor e oferecer durabilidade, mas que pudesse ser usado para transações digitais e não fosse controlado por um poder cental.
 
-[^3]: Um resuma da história do dinheiro digital anteriormente ao Bitcoin pode ser encontrado [neste artigo](https://en.wikipedia.org/wiki/History_of_bitcoin#Background}) da Wikipedia.
+[^3]: Um resumo da história do dinheiro digital anteriormente ao Bitcoin pode ser encontrado [neste artigo](https://en.wikipedia.org/wiki/History_of_bitcoin#Background}) da Wikipedia.
 
 Mas foi em 2009 que Satoshi Nakamoto divulgou a primeira moeda digital que poderia satisfazer a maioria das propriedades que compõem o dinheiro de qualidade. A invenção de Nakamoto era digitalmente programável e operava por consenso de grupo.devolvendo assim o poder à sociedade. Além disso o Bitcoin seria um ativo verdadeiramente escasso, à prova de adulteração, com um suprimento limitado e publicamente visível que ninguém poderia alterar. Portanto, é impossível diluir ou adulterar da mesma forma que governos fazem com suas moedas fiduciárias.
 
