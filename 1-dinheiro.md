@@ -18,7 +18,7 @@ Para a pessoa comum, o dinheiro mantém seu valor, pois existem apenas duas mane
 
 Ao visualizarmos o dinheiro como uma reserva de tempo e energia, podemos entender melhor que o dinheiro é essencialmente uma bateria - um armazenamento de energia que pode ser usado em uma data posterior. Com essa analogia em mente, a evolução do dinheiro, teoricamente, é a busca constante pela bateria mais eficiente para armazenar tempo e energia.
 
-O dinheiro pode também ser definido por um conjunto de características essenciais que o tornam um meio de troca eficiente, uma reserva de valor confiável e uma unidade de medida padrão para avaliar o valor. Essas propriedades são cruciais para que o dinheiro funcione de maneira eficaz em uma sociedade. Vamos mergulhar nas três principais concepções que definem o que é dinheiro "de verdade", ou _hard money_.
+O dinheiro pode também ser definido por um conjunto de características essenciais que o tornam um meio de troca eficiente, uma reserva de valor confiável e uma unidade de medida padrão para avaliar o valor. Essas propriedades são cruciais para que o dinheiro funcione de maneira eficaz em uma sociedade. Vamos mergulhar nas três principais concepções que definem o que é dinheiro de qualidade, ou _hard money_.
 
 ### Reserva de valor
 
@@ -155,26 +155,17 @@ O texto é um título de um artigo na edição de 3 de janeiro de 2009 do The \[
 
 ### Mas e o Bitcoin, hein?
 
-A ideia de se lançar uma "moeda digital" não nasceu com o Bitcoin, antes do lançamento do bitcoin, existiram várias tentativas de criar dinheiro digital[^3], ele foi "apenas" o único bem-sucedido. A tecnologia disponível no século 20 fez com que Cypherpunks, um grupo de indivíduos focados na privacidade por meio da tecnologia, em busca de escassez digital, não subservientes a nenhuma entidade central, embarcaram em uma missão para descobrir uma versão digital melhorada dos metais monetários. Eles estavam procurando por **ouro digital**. Algo que pudesse armazenar valor e oferecer durabilidade, mas que pudesse ser usado para transações digitais e não fosse controlado por um poder cental.
+A ideia de se lançar uma "moeda digital" não nasceu com o Bitcoin, mas existiram várias tentativas anteriores de criar dinheiro digital[^3]; o Bitcoin foi "apenas" o primeiro e único bem-sucedido.
+
+A tecnologia disponível no século 20 fez com que _cypherpunks_, um grupo de indivíduos focados na privacidade por meio da tecnologia, em busca de escassez digital e não subservientes a nenhuma entidade central, embarcaram em uma missão para descobrir uma versão digital melhorada dos metais monetários. Eles estavam procurando por "ouro digital". Algo que pudesse **armazenar valor** e oferecer **durabilidade**, mas que pudesse ser usado para transações digitais e **não fosse controlado por um poder cental**.
 
 [^3]: Um resumo da história do dinheiro digital anteriormente ao Bitcoin pode ser encontrado [neste artigo](https://en.wikipedia.org/wiki/History_of_bitcoin#Background}) da Wikipedia.
 
-Mas foi em 2009 que Satoshi Nakamoto divulgou a primeira moeda digital que poderia satisfazer a maioria das propriedades que compõem o dinheiro de qualidade. A invenção de Nakamoto era digitalmente programável e operava por consenso de grupo.devolvendo assim o poder à sociedade. Além disso o Bitcoin seria um ativo verdadeiramente escasso, à prova de adulteração, com um suprimento limitado e publicamente visível que ninguém poderia alterar. Portanto, é impossível diluir ou adulterar da mesma forma que governos fazem com suas moedas fiduciárias.
+Em 2009, Satoshi Nakamoto, um membro do movimento _cypherpunl_ divulgou a primeira moeda digital que poderia satisfazer a maioria das propriedades que compõem o dinheiro de qualidade. A invenção de Nakamoto era **digitalmente programável** e operava por **consenso de grupo**, devolvendo assim o poder de criar ou decidir o que é dinheiro à sociedade. Além disso, o Bitcoin seria um ativo verdadeiramente **escasso**, à prova de adulteração, com um **suprimento limitado** e **publicamente visível** que **ninguém poderia alterar**. Portanto, é impossível diluir ou adulterar o Bitcoin da mesma forma que governos fazem com suas moedas fiduciárias.
 
-O Bitcoin é um instrumento de custódia individual e digital, o que significa que não há necessidade de terceiros ​​para guardar o seu dinheiro ou de intermediários para transacioná-lo. Os participantes na rede impõem as regras por consenso - a política monetária é controlada por aqueles que participam do ecossistema, isto é, ele não depende de cofres de bancos comerciais ou de bancos centrais. Fora do controle de governos e bancos centrais, o Bitcoin formou um sistema monetário alternativo e manipulável. Desde 2009, o Bitcoin não enfrentou grandes falhas técnicas, hacks ou problemas, e sua aceitação como um bem monetário continua crescendo.
+Por ser um instrumento de **custódia individual e digital**, sem a necessidade de terceiros ​​para guardá-lo ou de intermediários para transacioná-lo, a política monetária é controlada por consenso por aqueles que participam do ecossistema, isto é, ele não depende de cofres de bancos comerciais ou de bancos centrais. Fora do controle de governos e bancos centrais, o Bitcoin formou um sistema monetário alternativo e não-manipulável. Desde 2009, o Bitcoin não enfrentou grandes falhas técnicas, hacks ou problemas, o que ajudou que sua aceitação como um bem monetário continue crescendo desde sua criação.
 
-Portanto, aparentemente o Bitcoin tem a maioria das característica que podem fazer dele um dinheiro de qualidade, possívelmente o melhor dinheiro que já existiu, quando comparamos as características que as sociedades ao longo da história valorizaram para transformar algo em dinheiro, como podemos verificar na tabela abaixo.
+Em resumo, é aparente que o Bitcoin tem a maioria das característica que podem fazer dele um dinheiro de qualidade, possívelmente o melhor dinheiro que já existiu, quando comparamos as características que as sociedades ao longo da história valorizaram para transformar algo em dinheiro, como podemos verificar na [tabela](https://docs.google.com/spreadsheets/d/1ljmeOW3kzIELcWSZ6-MtjTDO1eCiSUU9kn33-Af4hxE/edit#gid=0) abaixo.
 
-Property	Barter	Commodities	Monetary Metals	Metal-Backed Paper	Fiat Currency	Bitcoin	CBDCs
-Store of Value							
-Scarcity	Poor	Good	Excellent	Great	Poor	Excellent	Poor
-Durability	Poor	Good	Excellent	Good	Good	Excellent	Average
-Immutability	Great	Great	Great	Average	Average	Excellent	Poor
-Medium of Exchange							
-Portability	Poor	Average	Good	Great	Great	Excellent	Great
-Acceptability	Poor	Great	Great	Great	Excellent	Average	Average
-Unit of Account							
-Divisibility	Poor	Good	Good	Great	Great	Excellent	Excellent
-Fungibility	Poor	Good	Good	Great	Great	Excellent	Average
-Overall Rating	Poor	Good	Great	Great	Good	Excellent	Average
-
+## Resumo do capítulo
+<!-- escrever na segunda versão do capítulo -->
