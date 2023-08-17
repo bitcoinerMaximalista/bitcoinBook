@@ -129,19 +129,19 @@ Mas moedas fiduciárias tem em sua estratégia uma característica muito relevan
 
 Vejamos, por exemplo, duas informações sobre o dólar, considerada pelo mercaod financeiro, por razões que não discutiremos aqui, a moeda mais segura do mundo. Primeiro, vejamos, no gráfico abaixo, como o dólar perdeu seu valor de compra ao longo do tempo:
 
-![Poder de compra do Dólar ao londo do século 20.](dolar-sec-20.jpg)
+![Poder de compra do Dólar ao londo do século 20.](figuras/dolar-sec-20.jpg)
 
 Fonte: [Seeking Alpha](https://seekingalpha.com/article/137051-the-dollars-20th-century-decline).
 
 O que corroeu e continua corroendo o dólar e todas as outras moedas fiduciárias ao longo do tempo é sua inerente característica inflacionária. Vamos discutir melhor esse aspecto na terceira parte deste livro quando falarmos da geopolítica do Bitcoin. Por hora, apenas para exemplificar melhor o poder corrosivo da impressãos em lastro de moeda em papel, vejamos o que ocorreu durante a pandemia de Covid 19, quando o Federal Reserve (FED), o Banco Central dos Estados Unidos, imprimiu mais dólares do que anteriormente em toda a sua história:
 
-![Livro Caixa do Banco Central estadunidense, mostranto a velocidade acelerada na impressão de papel moeda](dolar-printing.png)
+![Livro Caixa do Banco Central estadunidense, mostranto a velocidade acelerada na impressão de papel moeda](figuras/dolar-printing.png)
 
 Fonte: [Virtuse](https://www.virtuse.com/whats-the-end-game-of-all-this-money-printing-2/).
 
 Como conequência, a inflação nos EUA subiu de quase zero em 2020 para 9,1% em junho de 2022, "forçando" o FED a arrochar a economia aumentando a taxa de juros, método bastante conhecido de nós brasileiros.
 
-![Inflação nos EUA pós impressão de dinheiro durante a pandemia de Covid 19](infacao-us.jpg.webp).
+![Inflação nos EUA pós impressão de dinheiro durante a pandemia de Covid 19](figuras/infacao-us.jpg.webp).
 
 Minha itenção em utilizar a economia estadunidense como exemplo é pelo fato de, primeiro, ser a maior economia do mundo; e, além disso, de ser considerada a mais segura. E ainda assim, vemos que ela não resiste aos problemas inerente de uma economia fiduciária. Outro exemplo disso são as quebras de bancos, invariavelmente salvos pelos governos. Foi numa dessas ocosiões que uma pessoa ou grupo de pessoas que atende pelo pseudônimo de Satashi Nakamoto publicou o que talvez possa vir a ser o próximo passo na evolução histórica do dinheiro, o Bitcoin.
 
